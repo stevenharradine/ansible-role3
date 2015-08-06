@@ -1,10 +1,12 @@
 ---
+dependencies:
+  - role: stevenharradine.4
 galaxy_info:
   author: "Steven Harradine"
   company: "TELUS digital"
   categories:
     - development
-  description: "Role 1 (dependency chain testing)"
+  description: "Role 3 (dependency chain testing)"
   min_ansible_version: 1.2
   platforms:
     - name: Ubuntu
